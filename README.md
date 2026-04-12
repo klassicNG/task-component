@@ -7,7 +7,6 @@ A testable, accessible, and responsive Todo Card component built with semantic H
 ## Live Demo
 
 > [https://klassicng.github.io/task-component](https://klassicng.github.io/task-component)  
-> *(replace with your actual URL after deploying)*
 
 ---
 
